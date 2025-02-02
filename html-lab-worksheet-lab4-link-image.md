@@ -213,7 +213,7 @@
         <hr>
         <figure>
             <a href="images/gallery/product2.png">
-                <img src="images/gallery/product2.png" alt="product1" width="200"> 
+                <img src="images/gallery/product2.png" alt="product2" width="200"> 
             </a>
             <figcaption>
                 <p>
@@ -241,7 +241,7 @@
         <hr>
         <figure>
             <a href="images/gallery/product3.png">
-                <img src="images/gallery/product3.png" alt="product1" width="200"> 
+                <img src="images/gallery/product3.png" alt="product3" width="200"> 
             </a>
             <figcaption>
                 <p>
@@ -269,7 +269,7 @@
         <hr>
         <figure>
             <a href="images/gallery/product4.png">
-                <img src="images/gallery/product4.png" alt="product1" width="200"> 
+                <img src="images/gallery/product4.png" alt="product4" width="200"> 
             </a>
             <figcaption>
                 <p>
@@ -297,7 +297,7 @@
         <hr>
         <figure>
             <a href="images/gallery/product5.png">
-                <img src="images/gallery/product5.png" alt="product1" width="200"> 
+                <img src="images/gallery/product5.png" alt="product5" width="200"> 
             </a>
             <figcaption>
                 <p>
@@ -325,7 +325,7 @@
         <hr>
         <figure>
             <a href="images/gallery/product6.png">
-                <img src="images/gallery/product6.png" alt="product1" width="200"> 
+                <img src="images/gallery/product6.png" alt="product6" width="200"> 
             </a>
             <figcaption>
                 <p>
@@ -353,7 +353,7 @@
         <hr>
         <figure>
             <a href="images/gallery/product7.png">
-                <img src="images/gallery/product7.png" alt="product1" width="200"> 
+                <img src="images/gallery/product7.png" alt="product7" width="200"> 
             </a>
             <figcaption>
                 <p>
@@ -381,7 +381,7 @@
         <hr>
         <figure>
             <a href="images/gallery/product8.png">
-                <img src="images/gallery/product8.png" alt="product1" width="200"> 
+                <img src="images/gallery/product8.png" alt="product8" width="200"> 
             </a>
             <figcaption>
                 <p>
