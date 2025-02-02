@@ -166,9 +166,263 @@
 - รหัสเอกสาร HTML ที่เขียน:
 ```html
 [วางโค้ด HTML ที่นี่]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Books</title>
+</head>
+<body>
+    <nav id="nav">
+        <img src="./images/logo.jpg" alt="logo" width="50" height="50">
+        <a href="index.html">หน้าหลัก</a>
+        <a href="pages/about.html">เกี่ยวกับเรา</a>
+        <a href="pages/contact.html">ติดต่อเรา</a>
+    </nav>
+    <hr>
+    <section>
+        <h1>Gallery</h1>
+        <figure>
+            <a href="images/gallery/product1.png">
+                <img src="images/gallery/product1.png" alt="product1" width="200"> 
+            </a>
+            <figcaption>
+                <p>
+                    <strong>TITLE:</strong>
+                    DIANA & JACK
+                </p>
+                <p>
+                    <strong>AUTHOR:</strong>
+                    Teeranat Pootivirnich
+                </p>
+                <p>
+                    <strong>PUBLISHER:</strong>
+                    Panya Thai
+                </p>
+                <p>
+                    <strong>CATEGORY:</strong>
+                    Fantasy
+                </p>
+                <p>
+                    <strong>PRICE:</strong>
+                    $12.99 / 420 THB
+                </p>
+            </figcaption>
+        </figure>
+        <hr>
+        <figure>
+            <a href="images/gallery/product2.png">
+                <img src="images/gallery/product2.png" alt="product1" width="200"> 
+            </a>
+            <figcaption>
+                <p>
+                    <strong>TITLE:</strong>
+                    CHRISTMAS
+                </p>
+                <p>
+                    <strong>AUTHOR:</strong>
+                    Prachya Aksaranon
+                </p>
+                <p>
+                    <strong>PUBLISHER:</strong>
+                    Navatras Publishing
+                </p>
+                <p>
+                    <strong>CATEGORY:</strong>
+                    CLASSICS
+                </p>
+                <p>
+                    <strong>PRICE:</strong>
+                    $12.99 / 420 THB
+                </p>
+            </figcaption>
+        </figure>
+        <hr>
+        <figure>
+            <a href="images/gallery/product3.png">
+                <img src="images/gallery/product3.png" alt="product1" width="200"> 
+            </a>
+            <figcaption>
+                <p>
+                    <strong>TITLE:</strong>
+                    TERE & TONY
+                </p>
+                <p>
+                    <strong>AUTHOR:</strong>
+                    Waranya Sirisuk
+                </p>
+                <p>
+                    <strong>PUBLISHER:</strong>
+                    Withee Books
+                </p>
+                <p>
+                    <strong>CATEGORY:</strong>
+                    FANTASY
+                </p>
+                <p>
+                    <strong>PRICE:</strong>
+                    $12.99 / 420 THB
+                </p>
+            </figcaption>
+        </figure>
+        <hr>
+        <figure>
+            <a href="images/gallery/product4.png">
+                <img src="images/gallery/product4.png" alt="product1" width="200"> 
+            </a>
+            <figcaption>
+                <p>
+                    <strong>TITLE:</strong>
+                    CELTIC TALES
+                </p>
+                <p>
+                    <strong>AUTHOR:</strong>
+                    Anawin Pipattanakit
+                </p>
+                <p>
+                    <strong>PUBLISHER:</strong>
+                    Sangdao Publishing
+                </p>
+                <p>
+                    <strong>CATEGORY:</strong>
+                    SPIRITUALITY & MINDFULNESS
+                </p>
+                <p>
+                    <strong>PRICE:</strong>
+                    $12.99 / 420 THB
+                </p>
+            </figcaption>
+        </figure>
+        <hr>
+        <figure>
+            <a href="images/gallery/product5.png">
+                <img src="images/gallery/product5.png" alt="product1" width="200"> 
+            </a>
+            <figcaption>
+                <p>
+                    <strong>TITLE:</strong>
+                    THE LORD OF THE KINGS
+                </p>
+                <p>
+                    <strong>AUTHOR:</strong>
+                    Pitchada Wattanakiet
+                </p>
+                <p>
+                    <strong>PUBLISHER:</strong>
+                    Jintasill Publishing
+                </p>
+                <p>
+                    <strong>CATEGORY:</strong>
+                    FANTASY
+                </p>
+                <p>
+                    <strong>PRICE:</strong>
+                    $12.99 / 420 THB
+                </p>
+            </figcaption>
+        </figure>
+        <hr>
+        <figure>
+            <a href="images/gallery/product6.png">
+                <img src="images/gallery/product6.png" alt="product1" width="200"> 
+            </a>
+            <figcaption>
+                <p>
+                    <strong>TITLE:</strong>
+                    SIMPLE & MINIMALIST
+                </p>
+                <p>
+                    <strong>AUTHOR:</strong>
+                    Nakarin Kulpiya
+                </p>
+                <p>
+                    <strong>PUBLISHER:</strong>
+                    Dandin Books
+                </p>
+                <p>
+                    <strong>CATEGORY:</strong>
+                    SELF-HELP
+                </p>
+                <p>
+                    <strong>PRICE:</strong>
+                    $12.99 / 420 THB
+                </p>
+            </figcaption>
+        </figure>
+        <hr>
+        <figure>
+            <a href="images/gallery/product7.png">
+                <img src="images/gallery/product7.png" alt="product1" width="200"> 
+            </a>
+            <figcaption>
+                <p>
+                    <strong>TITLE:</strong>
+                    MUTED COLOR POSTER
+                </p>
+                <p>
+                    <strong>AUTHOR:</strong>
+                    Supakorn Arayatham
+                </p>
+                <p>
+                    <strong>PUBLISHER:</strong>
+                    Montra Publishing
+                </p>
+                <p>
+                    <strong>CATEGORY:</strong>
+                    NON-FICTION
+                </p>
+                <p>
+                    <strong>PRICE:</strong>
+                    $12.99 / 420 THB
+                </p>
+            </figcaption>
+        </figure>
+        <hr>
+        <figure>
+            <a href="images/gallery/product8.png">
+                <img src="images/gallery/product8.png" alt="product1" width="200"> 
+            </a>
+            <figcaption>
+                <p>
+                    <strong>TITLE:</strong>
+                    MODERN ABSTRACT
+                </p>
+                <p>
+                    <strong>AUTHOR:</strong>
+                    Charuwan Rattanasombat
+                </p>
+                <p>
+                    <strong>PUBLISHER:</strong>
+                    Aruntat Publishing
+                </p>
+                <p>
+                    <strong>CATEGORY:</strong>
+                    BUSINESS & MINDFULNESS
+                </p>
+                <p>
+                    <strong>PRICE:</strong>
+                    $12.99 / 420 THB
+                </p>
+            </figcaption>
+        </figure>
+        <hr>
+    </section>
+    
+    <a href="#nav">กลับด้านบน</a>
+</body>
+</html>
 ```
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
+![image](https://github.com/user-attachments/assets/d6f2f4f9-5043-4e98-9dee-091187bff72d)
+![image](https://github.com/user-attachments/assets/54a13b5b-db96-47b1-bf87-31fc1cec15a5)
+![image](https://github.com/user-attachments/assets/ab7accff-6dff-44e4-9629-7dd62a032c79)
+![image](https://github.com/user-attachments/assets/216d67ec-cf29-47d9-a0d4-545f79ba2176)
+![image](https://github.com/user-attachments/assets/62ae5831-c837-4fe0-982e-17f8be0cf32a)
+
+
+
 
 
 
