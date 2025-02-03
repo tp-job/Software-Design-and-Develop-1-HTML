@@ -339,15 +339,15 @@
                 <label for="sport">กีฬา</label>
                 <input type="checkbox" id="music" name="interests" value="music">
                 <label for="music">ดนตรี</label>
-                <input type="checkbox" id="tech" name="interests" value="tech">
+                <input type="checkbox" id="food" name="interests" value="tech">
                 <label for="food">อาหารและเครื่องดื่ม</label>
-                <input type="checkbox" id="tech" name="interests" value="tech">
+                <input type="checkbox" id="electronics" name="interests" value="tech">
                 <label for="electronics">เครื่องใช้ไฟฟ้า</label>
-                <input type="checkbox" id="tech" name="interests" value="tech">
+                <input type="checkbox" id="fashiob" name="interests" value="tech">
                 <label for="fashion">เสื้อผ้าและแฟชั่น</label>
-                <input type="checkbox" id="tech" name="interests" value="tech">
+                <input type="checkbox" id="beauty name="interests" value="tech">
                 <label for="beauty">เครื่องสำอางและสุขภาพ</label>
-                <input type="checkbox" id="tech" name="interests" value="tech">
+                <input type="checkbox" id="game" name="interests" value="tech">
                 <label for="game">ของเล่นและเกม</label>
             </div>
         </fieldset>
